@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/bin/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/obj/Debug/netcoreapp3.1/CriandoVariaveisPontoFlutuante.genruntimeconfig.cache

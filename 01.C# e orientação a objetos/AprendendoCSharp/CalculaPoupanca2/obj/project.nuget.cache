@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUaqreiUj32PsPx+YzOx6vq8O4FfZ8JbC9ti/G3irLxrFVDGFCs30XVXp/CZ/wsU8z93RhcPyzjuTdzjQXFKTA==",
+  "success": true,
+  "projectFilePath": "/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca2/CalculaPoupanca2.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristianapassos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

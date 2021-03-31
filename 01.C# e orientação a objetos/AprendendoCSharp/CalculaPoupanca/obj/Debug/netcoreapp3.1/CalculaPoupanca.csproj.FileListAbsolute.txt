@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/bin/Debug/netcoreapp3.1/CalculaPoupanca.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/bin/Debug/netcoreapp3.1/CalculaPoupanca.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/bin/Debug/netcoreapp3.1/CalculaPoupanca.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/bin/Debug/netcoreapp3.1/CalculaPoupanca.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/bin/Debug/netcoreapp3.1/CalculaPoupanca.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaPoupanca/obj/Debug/netcoreapp3.1/CalculaPoupanca.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K89j7abFJPx+9yc6qw7iIh4o+maiIPlRydqbziPG5BI8YV2nhr989DXn3IVsWMFboEZfSvPvyW9ioqQOIO5Sbg==",
+  "success": true,
+  "projectFilePath": "/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristianapassos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

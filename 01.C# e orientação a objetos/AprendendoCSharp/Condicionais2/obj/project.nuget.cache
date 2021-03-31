@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JA7KyKAYh2lv92K0s1ixpLT3tbFIyQ35L3LOuSX4s8LEffMts6XaM+uFEXybS+9OHPlowC3znDOdDe/gBHXkqw==",
+  "success": true,
+  "projectFilePath": "/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais2/Condicionais2.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristianapassos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/bin/Debug/netcoreapp3.1/CaracteresETextos.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/obj/Debug/netcoreapp3.1/CaracteresETextos.genruntimeconfig.cache

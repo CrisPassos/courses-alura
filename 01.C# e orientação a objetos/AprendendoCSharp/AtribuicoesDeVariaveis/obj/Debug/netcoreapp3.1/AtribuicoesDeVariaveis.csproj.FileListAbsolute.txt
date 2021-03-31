@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/bin/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/bin/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/bin/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/bin/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/bin/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/AtribuicoesDeVariaveis/obj/Debug/netcoreapp3.1/AtribuicoesDeVariaveis.genruntimeconfig.cache

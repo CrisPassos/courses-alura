@@ -1,0 +1,11 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/bin/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/bin/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/bin/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/bin/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/bin/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CalculaInvestimentoLongoPrazo/obj/Debug/netcoreapp3.1/CalculaInvestimentoLongoPrazo.genruntimeconfig.cache

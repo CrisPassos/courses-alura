@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{A7DD7A89-EFB2-47C5-B4AC-633CA533932C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculaInvestimentoLongoPrazo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Escopo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculaPoupanca PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CalculaPoupanca2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculaInvestimentoLongoPrazo/Program.cs">
+    <Files>
+      <File FileName="CalculaInvestimentoLongoPrazo/Program.cs" Line="15" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AprendendoCSharp" expanded="True">
+            <Node name="CalculaInvestimentoLongoPrazo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CalculaPoupanca" expanded="True" />
+            <Node name="CalculaPoupanca2" expanded="True" />
+            <Node name="Condicionais" expanded="True" />
+            <Node name="Condicionais2" expanded="True" />
+            <Node name="Escopo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrimeiroProjeto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Condicionais PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CriandoVariaveisPontoFlutuante PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CriandoVariaveis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AtribuicoesDeVariaveis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConversoesEOutrosTiposNumericos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CaracteresETextos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Condicionais2 FirstBuild="True" />
+</Properties>

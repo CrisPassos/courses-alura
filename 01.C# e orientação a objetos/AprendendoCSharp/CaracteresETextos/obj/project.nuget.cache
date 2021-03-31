@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JaFK5QnN5wXxVh4bosbTgv8MNU7mvhOcpZ4FPnas6/NI8ZkNLUd1NO3+VgMYTXwXlQ6HVA79NbwU3WE1Q3pt4Q==",
+  "success": true,
+  "projectFilePath": "/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CaracteresETextos/CaracteresETextos.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristianapassos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

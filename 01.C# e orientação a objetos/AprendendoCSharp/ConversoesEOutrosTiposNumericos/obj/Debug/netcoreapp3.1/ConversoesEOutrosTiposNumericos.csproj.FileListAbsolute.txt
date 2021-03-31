@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/bin/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/ConversoesEOutrosTiposNumericos/obj/Debug/netcoreapp3.1/ConversoesEOutrosTiposNumericos.genruntimeconfig.cache

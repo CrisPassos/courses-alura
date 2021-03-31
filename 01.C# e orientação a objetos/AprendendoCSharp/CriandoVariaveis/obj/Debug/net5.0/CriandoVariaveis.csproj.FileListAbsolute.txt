@@ -1,0 +1,15 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/CriandoVariaveis.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/CriandoVariaveis.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/CriandoVariaveis.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/CriandoVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/ref/CriandoVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/bin/Debug/net5.0/CriandoVariaveis.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/ref/CriandoVariaveis.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveis/obj/Debug/net5.0/CriandoVariaveis.genruntimeconfig.cache

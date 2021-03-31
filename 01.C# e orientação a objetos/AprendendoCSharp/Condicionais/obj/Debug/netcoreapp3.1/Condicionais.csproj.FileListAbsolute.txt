@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/bin/Debug/netcoreapp3.1/Condicionais.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/bin/Debug/netcoreapp3.1/Condicionais.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/bin/Debug/netcoreapp3.1/Condicionais.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/bin/Debug/netcoreapp3.1/Condicionais.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/bin/Debug/netcoreapp3.1/Condicionais.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/Condicionais/obj/Debug/netcoreapp3.1/Condicionais.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/bin/Debug/netcoreapp3.1/PrimeiroProjeto.deps.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/bin/Debug/netcoreapp3.1/PrimeiroProjeto.runtimeconfig.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/bin/Debug/netcoreapp3.1/PrimeiroProjeto.runtimeconfig.dev.json
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/bin/Debug/netcoreapp3.1/PrimeiroProjeto.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/bin/Debug/netcoreapp3.1/PrimeiroProjeto.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.csprojAssemblyReference.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.AssemblyInfo.cs
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.dll
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.pdb
+/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/PrimeiroProjeto/obj/Debug/netcoreapp3.1/PrimeiroProjeto.genruntimeconfig.cache

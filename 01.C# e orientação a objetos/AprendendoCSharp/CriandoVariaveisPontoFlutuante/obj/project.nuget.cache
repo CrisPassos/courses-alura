@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRBBYPB6zJUUNgyfB44ucQBAWJ3CbhbrhUqae3/SLVLChOwcIYJvcy5Aqw4gb9PqTPrk+F0H/25I/3ZujOa2dQ==",
+  "success": true,
+  "projectFilePath": "/Users/cristianapassos/Desktop/worspace/Alura/C#/AprendendoCSharp/CriandoVariaveisPontoFlutuante/CriandoVariaveisPontoFlutuante.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristianapassos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
