@@ -6,10 +6,10 @@ class ListaDeNotas extends Component {
   render() {
     return (
       <ul className="lista-notas">
-        {Array.of("Trabalho", "Trabalho", "Estudos").map((categoria, index) => {
+        {this.props.notas.map((categoria, index) => {
           return (
             <li className="lista-notas_item" key={index}>
-              <CardNotas />
+              <CardNotas titulo={categoria.titulo} texto={categoria.texto} />
             </li>
           );
         })}
