@@ -4,6 +4,7 @@ import "./style.css";
 class ListaDeCategorias extends Component {
   _handleEventoInput(e) {
     if (e.key === "Enter") {
+      this.props.adicionarCategoria(e.target.value);
     }
   }
 
@@ -11,9 +12,13 @@ class ListaDeCategorias extends Component {
     return (
       <section className="lista-categorias">
         <ul className="lista-categorias_lista">
-          <li className="lista-categorias_item">Categorias</li>
-          <li className="lista-categorias_item">Categorias</li>
-          <li className="lista-categorias_item">Categorias</li>
+          {this.props.categorias.map((c, index) => {
+            return (
+              <li className="lista-categorias_item" key={index}>
+                {c}
+              </li>
+            );
+          })}
         </ul>
 
         <input

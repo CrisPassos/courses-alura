@@ -4,43 +4,32 @@ import ListaDeNotas from "./components/ListaDeNotas";
 import ListaDeCategorias from "./components/ListaDeCategorias";
 import "./assets/App.css";
 import "./assets/index.css";
+import Categorias from "./dados/Categoria";
+import ArrayNotas from "./dados/Notas";
 
 class App extends Component {
   constructor() {
     super();
-    this.state = {
-      notas: [],
-    };
-  }
-
-  criarNota(titulo, texto) {
-    console.log(`uma nova nota foi criada ${titulo} ${texto}`);
-
-    //renderiza o elemento atualizado tipo o onChanges
-    this.setState({
-      notas: [...this.state.notas, { titulo, texto }],
-    });
-  }
-
-  deletarNota(index) {
-    let arrayNotas = this.state.notas;
-    arrayNotas.splice(index, 1);
-
-    this.setState({
-      notas: arrayNotas,
-    });
+    this.categorias = new Categorias();
+    this.notas = new ArrayNotas();
   }
 
   render() {
     return (
       <section className="conteudo">
-        <FormularioCadastro criarNota={this.criarNota.bind(this)} />
+        <FormularioCadastro
+          categorias={this.categorias.categorias}
+          criarNota={this.notas.adicionarNotas}
+        />
         <main className="conteudo-principal">
-          <ListaDeCategorias />
+          <ListaDeCategorias
+            categorias={this.categorias.categorias}
+            adicionarCategoria={this.categorias.adicionarCategoria}
+          />
 
           <ListaDeNotas
-            notas={this.state.notas}
-            apagarNota={this.deletarNota.bind(this)}
+            notas={this.notas.notas}
+            apagarNota={this.notas.deletarNotas}
           />
         </main>
       </section>
