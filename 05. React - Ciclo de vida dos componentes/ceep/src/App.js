@@ -31,7 +31,7 @@ class App extends Component {
 
           <ListaDeNotas
             notas={this.notas}
-            apagarNota={this.notas.deletarNotas.bind(this.notas)}
+            apagarNota={this.notas.apagarNota.bind(this.notas)}
           />
         </main>
       </section>

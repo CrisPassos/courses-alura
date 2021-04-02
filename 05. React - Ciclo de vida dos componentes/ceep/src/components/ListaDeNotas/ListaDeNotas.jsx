@@ -10,6 +10,10 @@ class ListaDeNotas extends Component {
   componentDidMount() {
     this.props.notas.inscrever(this._novasNotas.bind(this));
   }
+  componentWillUnmount() {
+    this.props.categorias.desinscrever(this._novasCategorias.bind(this));
+  }
+
   _novasNotas(notas) {
     this.setState({ ...this.state, notas });
   }

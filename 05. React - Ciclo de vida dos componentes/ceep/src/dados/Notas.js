@@ -12,14 +12,18 @@ export default class ArrayNotas {
     this._inscritos.forEach((func) => func(this.notas));
   }
 
+  desincrever(func) {
+    this._inscritos = this._inscritos.filter((f) => f !== func);
+  }
+
   adicionarNotas(titulo, texto, categoria) {
     const novaNota = new Nota(titulo, texto, categoria);
     this.notas.push(novaNota);
     this.notificar();
   }
 
-  deletarNotas(index) {
-    this.notas.slice(index, 1);
+  apagarNota(indice) {
+    this.notas.splice(indice, 1);
     this.notificar();
   }
 }
