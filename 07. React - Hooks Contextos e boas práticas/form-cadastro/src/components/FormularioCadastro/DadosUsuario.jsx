@@ -10,7 +10,7 @@ function DadosUsuario({ aoEnviar }) {
     <form
       onSubmit={(event) => {
         event.preventDefault();
-        aoEnviar();
+        aoEnviar({ email, senha });
       }}
     >
       <TextField
@@ -21,6 +21,10 @@ function DadosUsuario({ aoEnviar }) {
         fullWidth
         margin="normal"
         required
+        value={email}
+        onChange={(event) => {
+          setEmail(event.target.value);
+        }}
       />
       <TextField
         variant="outlined"
@@ -30,6 +34,10 @@ function DadosUsuario({ aoEnviar }) {
         fullWidth
         margin="normal"
         required
+        value={senha}
+        onChange={(event) => {
+          setSenha(event.target.value);
+        }}
       />
       <Button type="submit" variant="contained" color="primary">
         Cadastrar
