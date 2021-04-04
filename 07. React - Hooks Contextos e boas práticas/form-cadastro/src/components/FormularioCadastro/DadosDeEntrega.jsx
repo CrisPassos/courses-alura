@@ -19,6 +19,7 @@ function DadosDeEntrega({ aoEnviar }) {
         variant="outlined"
         id="cep"
         label="cep"
+        name="cep"
         type="number"
         fullWidth
         margin="normal"
@@ -32,6 +33,7 @@ function DadosDeEntrega({ aoEnviar }) {
         variant="outlined"
         id="endereco"
         label="endereço"
+        name="endereco"
         type="text"
         fullWidth
         margin="normal"
@@ -44,6 +46,7 @@ function DadosDeEntrega({ aoEnviar }) {
       <TextField
         variant="outlined"
         id="numero"
+        name="numero"
         label="número"
         type="number"
         margin="normal"
@@ -57,6 +60,7 @@ function DadosDeEntrega({ aoEnviar }) {
         variant="outlined"
         id="estado"
         label="estado"
+        name="estado"
         type="text"
         margin="normal"
         value={estado}
@@ -69,6 +73,7 @@ function DadosDeEntrega({ aoEnviar }) {
         variant="outlined"
         id="cidade"
         label="cidade"
+        name="cidade"
         type="text"
         margin="normal"
         value={cidade}
