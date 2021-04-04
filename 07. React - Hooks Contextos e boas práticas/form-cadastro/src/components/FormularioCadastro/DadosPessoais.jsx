@@ -1,13 +1,16 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import { Switch, Button, TextField, FormControlLabel } from "@material-ui/core";
+import ValidacoesDeCadastros from "../../contexts/ValidacoesCadastro";
 
-function DadosPessoais({ aoEnviar, validacoes }) {
+function DadosPessoais({ aoEnviar }) {
   const [nome, setNome] = useState("");
   const [sobrenome, setSobrenome] = useState("");
   const [cpf, setCpf] = useState("");
   const [promocoes, setPromocoes] = useState(true);
   const [novidades, setNovidades] = useState(true);
   const [erros, setErrors] = useState({ cpf: { valido: true, texto: "" } });
+
+  const validacoes = useContext(ValidacoesDeCadastros);
 
   function possoEnviar() {
     for (let campo in erros) {
